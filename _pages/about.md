@@ -41,6 +41,6 @@ From January 2020 to November 2020 I worked as Research Assistant at Polytechnic
 Starting from November 2020, I'm a Ph.D. Student working on Graph Learning techniques for Multimedia Recommender Systems.
 
 # Contacts
-* institutional email: [daniele.malitesta@poliba.it](mailto:daniele.malitesta@poliba.it)
-* personal email: [d.malitesta@gmail.com](mailto:d.malitesta@gmail.com)
-* institutional webpage: [http://sisinflab.poliba.it/malitesta](http://sisinflab.poliba.it/malitesta)
+* institutional email: [**daniele.malitesta@poliba.it**](mailto:daniele.malitesta@poliba.it)
+* personal email: [**d.malitesta@gmail.com**](mailto:d.malitesta@gmail.com)
+* institutional webpage: [**http://sisinflab.poliba.it/malitesta**](http://sisinflab.poliba.it/malitesta)
