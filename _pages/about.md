@@ -16,7 +16,7 @@ My main research topics are **Graph Learning** and **Multimedia Recommender Syst
 * **[Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders](http://sisinflab.poliba.it/publications/2020/ADMM20/)**  
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
 *Workshop on Dataset Curation and Security @ NeurIPS 2020*  
-\[[code](https://github.com/sisinflab/Perceptual-Rec-Mutation-of-Adv-VRs)\]
+\[[**code**](https://github.com/sisinflab/Perceptual-Rec-Mutation-of-Adv-VRs)\]
 
 * **[An Empirical Study of DNNs Robustification Inefficacy in Protecting Visual Recommenders](https://arxiv.org/abs/2010.00984)**  
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
