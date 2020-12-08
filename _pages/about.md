@@ -12,8 +12,7 @@ Hi there! I'm Daniele Malitesta, a Ph.D. Student at Polytechnic University of Ba
 
 My main research topics are **Graph Learning** and **Multimedia Recommender Systems**, but I'm also interested in Adversarial Machine Learning and Deep Learning. I'm working with Prof. Tommaso Di Noia and Prof. Yashar Deldjoo.
 
-Publications
-======
+# Publications
 ## 2020
 * **Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders**  
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
@@ -23,8 +22,7 @@ Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
 * **TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**
 * **Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario**
 
-Education
-======
+# Education
 I got my Bachelor's Degree in Computer Science and Automation Engineering in 2017 (full marks with honors) with a thesis in Electrical Communications entitled *"Performance Evaluation of Data-Centric Networks based upon Semantic Naming Algorithms"*.
 
 Then, I got my Master's Degree in Computer Science Engineering in 2019 (full marks with honors) with a thesis in Logic and Artificial Intelligence entitled *"Novel Approaches to Image Compression via Deep Learning"*.
