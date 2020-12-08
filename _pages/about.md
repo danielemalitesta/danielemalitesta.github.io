@@ -23,11 +23,14 @@ Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
 *arXiv preprint*
 
-* **[TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems]**  
+* **[TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems](https://ieeexplore.ieee.org/document/9151572)**  
 Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
-*2020 Workshop on Dependable and Secure Machine Learning @ DSN 2020*
+*Workshop on Dependable and Secure Machine Learning @ IEEE/IFIP DSN 2020*  
+\[[code](https://github.com/sisinflab/TAaMR)\]
 
-* **Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario**
+* **Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario**  
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta  
+*IEEE EAIS 2020*
 
 # Education
 I got my Bachelor's Degree in Computer Science and Automation Engineering in 2017 (full marks with honors) with a thesis in Electrical Communications entitled *"Performance Evaluation of Data-Centric Networks based upon Semantic Naming Algorithms"*.
