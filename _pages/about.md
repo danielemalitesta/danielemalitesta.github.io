@@ -28,7 +28,7 @@ Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
 *Workshop on Dependable and Secure Machine Learning @ IEEE/IFIP DSN 2020*  
 \[[code](https://github.com/sisinflab/TAaMR)\]
 
-* **Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario**  
+* **[Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario](https://ieeexplore.ieee.org/document/9122753)**  
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta  
 *IEEE EAIS 2020*
 
