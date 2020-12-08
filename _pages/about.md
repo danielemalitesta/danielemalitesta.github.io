@@ -19,7 +19,10 @@ Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
 *Workshop on Dataset Curation and Security @ NeurIPS 2020*  
 \[[code](https://github.com/sisinflab/Perceptual-Rec-Mutation-of-Adv-VRs)\]
 
-* **An Empirical Study of DNNs Robustification Inefficacy in Protecting Visual Recommenders**
+* **[An Empirical Study of DNNs Robustification Inefficacy in Protecting Visual Recommenders](https://arxiv.org/abs/2010.00984)**  
+Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
+*arXiv preprint*
+
 * **TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**
 * **Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario**
 
