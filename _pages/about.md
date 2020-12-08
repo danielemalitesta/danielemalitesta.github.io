@@ -12,9 +12,9 @@ I'm a Ph.D. Student at Polytechnic University of Bari, Italy. My main research t
 
 Education
 ======
-I got my Bachelor's Degree in Computer Science and Automation Engineering in 2017 (full marks with honors) with a thesis in Electrical Communications entitled "Performance Evaluation of Data-Centric Networks based upon Semantic Naming Algorithms".
+I got my Bachelor's Degree in Computer Science and Automation Engineering in 2017 (full marks with honors) with a thesis in Electrical Communications entitled *Performance Evaluation of Data-Centric Networks based upon Semantic Naming Algorithms*.
 
-Then, I got my Master's Degree in Computer Science Engineering in 2019 (full marsk with honors) with a thesis in Logic and Artificial Intelligence entitled "Novel Approaches to Image Compression via Deep Learning".
+Then, I got my Master's Degree in Computer Science Engineering in 2019 (full marks with honors) with a thesis in Logic and Artificial Intelligence entitled *Novel Approaches to Image Compression via Deep Learning*.
 
 From January 2020 to November 2020 I worked as Research Assistant at Polytechnic of Bari. 
 
