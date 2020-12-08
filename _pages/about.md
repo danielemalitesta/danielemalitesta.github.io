@@ -15,8 +15,7 @@ My main research topics are **Graph Learning** and **Multimedia Recommender Syst
 Publications
 ======
 ## 2020
-* **Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders**
-
+* **Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders**  
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
 Workshop on Dataset Curation and Security @ Neural Information Processing Systems (NeurIPS 2020)
 
