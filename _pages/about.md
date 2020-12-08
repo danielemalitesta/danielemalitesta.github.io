@@ -15,6 +15,7 @@ My main research topics are **Graph Learning** and **Multimedia Recommender Syst
 ### Contacts
 * institutional email: daniele\[dot\]malitesta\[at\]poliba\[dot\]it
 * personal email: d\[dot\]malitesta\[at\]gmail\[dot\]com
+* institutional webpage: http://sisinflab.poliba.it/malitesta
 
 # Publications
 ## 2020
