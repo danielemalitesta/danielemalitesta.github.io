@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+# About me
 Hi there! I'm Daniele Malitesta, a Ph.D. Student at Polytechnic University of Bari (Italy). 
 
 My main research topics are **Graph Learning** and **Multimedia Recommender Systems**, but I'm also interested in Adversarial Machine Learning and Deep Learning. I'm working with Prof. Tommaso Di Noia and Prof. Yashar Deldjoo.
