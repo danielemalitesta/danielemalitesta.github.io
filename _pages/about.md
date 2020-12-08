@@ -16,8 +16,8 @@ Publications
 ======
 ## 2020
 * **Assessing Perceptual and Recommendation Mutation of Adversarially-Poisoned Visual Recommenders**  
-Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
-Workshop on Dataset Curation and Security @ Neural Information Processing Systems (NeurIPS 2020)
+Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
+*Workshop on Dataset Curation and Security @ Neural Information Processing Systems (NeurIPS 2020)*
 
 * **An Empirical Study of DNNs Robustification Inefficacy in Protecting Visual Recommenders**
 * **TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**
