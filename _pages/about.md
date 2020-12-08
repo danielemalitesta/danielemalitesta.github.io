@@ -23,7 +23,10 @@ Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
 Vito Walter Anelli, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
 *arXiv preprint*
 
-* **TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems**
+* **[TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems]**  
+Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
+*2020 Workshop on Dependable and Secure Machine Learning @ DSN 2020*
+
 * **Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario**
 
 # Education
