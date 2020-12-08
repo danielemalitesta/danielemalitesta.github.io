@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/deep-learning-based-adaptive-image-compression-system-for-a-real-world-scenario
+date: 2009-05
+venue: '2020 IEEE Conference on Evolving and Adaptive Intelligent Systems (EAIS'20)'
+paperurl: 'https://ieeexplore.ieee.org/document/9122753'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://ieeexplore.ieee.org/document/9122753)
