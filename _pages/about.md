@@ -16,7 +16,7 @@ Corresponding authors are **bolded**.
 ## 2021
 * **[A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems](https://www.researchgate.net/publication/350873965_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually-Aware_Recommender_Systems)**  
 Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Felice Antonio Merra  
-*Workshop on Computer Vision for Fashion, Art, and Design @ CVPR 2021*  
+*CVFAD Workshop @ CVPR 2021*  
 \[[**code**](https://github.com/sisinflab/CNNs-in-VRSs)\]
 
 
