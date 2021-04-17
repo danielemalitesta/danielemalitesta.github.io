@@ -14,19 +14,19 @@ My main research topics are **Graph Learning** and **Multimedia Recommender Syst
 # Publications
 ## 2021
 * **[A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems](https://www.researchgate.net/publication/350873965_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually-Aware_Recommender_Systems)**
-Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
-*Workshop on Computer Vision for Fashion, Art, and Design @ CVPR 2021*
+Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
+*Workshop on Computer Vision for Fashion, Art, and Design @ CVPR 2021*  
 \[[**code**](https://github.com/sisinflab/CNNs-in-VRSs)\]
 
 
 * **[A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images](https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images)**
-Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra
-*SIGIR 2021*
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Daniele Malitesta, Felice Antonio Merra  
+*SIGIR 2021*  
 \[[**code**](https://github.com/sisinflab/Visual-Adversarial-Recommendation)\]
 
 * **[Elliot: a Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation](https://www.researchgate.net/publication/349758875_Elliot_a_Comprehensive_and_Rigorous_Framework_for_Reproducible_Recommender_Systems_Evaluation)**
-Vito Walter Anelli, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, Tommaso Di Noia
-*SIGIR 2021*
+Vito Walter Anelli, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, Tommaso Di Noia  
+*SIGIR 2021*  
 \[[**code**](https://github.com/sisinflab/elliot)\]
 
 ## 2020
