@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi there! I'm Daniele Malitesta, a Ph.D. Student at Polytechnic University of Bari (Italy). 
 
-My main research topics are **Graph Learning** and **Multimedia Recommender Systems**, but I'm also interested in Adversarial Machine Learning and Deep Learning. I'm working with Prof. Tommaso Di Noia and Prof. Yashar Deldjoo.
+My main research topics are **Graph Representation Learning** and **Multimedia Recommender Systems**, but I'm also interested in Adversarial Machine Learning and Deep Learning. I'm working with Prof. Tommaso Di Noia and Prof. Yashar Deldjoo.
 
 # Publications
 Corresponding authors are **bolded**.
@@ -56,7 +56,7 @@ Then, I got my Master's Degree in Computer Science Engineering in 2019 (full mar
 
 From January 2020 to November 2020 I worked as Research Assistant at Polytechnic of Bari. 
 
-Starting from November 2020, I'm a Ph.D. Student working on Graph Learning techniques for Multimedia Recommender Systems.
+Starting from November 2020, I'm a Ph.D. Student working on Graph Representation Learning techniques for Multimedia Recommender Systems.
 
 # Contacts
 * institutional email: [**daniele.malitesta@poliba.it**](mailto:daniele.malitesta@poliba.it)
