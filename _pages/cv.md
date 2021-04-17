@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science and Automation Engineering, Polytecnic of Bari (2014 - 2017)
 * M.S. in Computer Science Engineering, Polytechnic of Bari (2017 - 2019)
-* Ph.D in Electrical and Computer Science Engineering (2020 - )
+* Ph.D. in Electrical and Computer Science Engineering (2020 - )
 
 Work experience
 ======
