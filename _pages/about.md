@@ -14,9 +14,10 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 # Publications
 Corresponding authors are **bolded**.
 ## 2021
+
 * **V-Elliot: Design, Evaluate and Tune Visual Recommender Systems**
-Vito Walter Anelli, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, Tommaso Di Noia
-*RecSys 2021*
+Vito Walter Anelli, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, Tommaso Di Noia 
+*RecSys 2021* 
 \[[**code**](https://github.com/sisinflab/elliot)\]
 
 * **[A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems](https://www.researchgate.net/publication/350873965_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually-Aware_Recommender_Systems)**  
