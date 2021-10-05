@@ -62,7 +62,7 @@ Tommaso Di Noia, Daniele Malitesta, **Felice Antonio Merra**
 
 * **[Deep Learning-Based Adaptive Image Compression System for a Real-World Scenario](https://www.researchgate.net/publication/342405274_Deep_Learning-Based_Adaptive_Image_Compression_System_for_a_Real-World_Scenario)**  
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**  
-*IEEE EAIS 2020*
+*EAIS 2020*
 
 # Education
 I got my Bachelor's Degree in Computer Science and Automation Engineering in 2017 (full marks with honors) with a thesis in Electrical Communications entitled *"Performance Evaluation of Data-Centric Networks based upon Semantic Naming Algorithms"*.
