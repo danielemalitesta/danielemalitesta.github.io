@@ -20,6 +20,16 @@ Vito Walter Anelli, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Fel
 *RecSys 2021*  
 \[[**code**](https://github.com/sisinflab/elliot)\]
 
+* **[Adversarial Attacks against Visual Recommendation: an Investigation on the Influence of Items’ Popularity](https://www.researchgate.net/publication/354117200_Adversarial_Attacks_against_Visual_Recommendation_an_Investigation_on_the_Influence_of_Items'_Popularity)**  
+Vito Walter Anelli, Tommaso Di Noia, Eugenio Di Sciascio, Daniele Malitesta, **Felice Antonio Merra**  
+*Workshop on Online Misinformation- and Harm-Aware Recommender Systems @ RecSys 2021*  
+\[[**code**](https://github.com/sisinflab/elliot)\]
+
+* **[How to perform reproducible experiments in the ELLIOT recommendation framework: data processing, model selection, and performance evaluation](http://ceur-ws.org/Vol-2947/paper14.pdf)**  
+Vito Walter Anelli, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, Claudio Pomo, Francesco Maria Donini, Eugenio Di Sciascio, Tommaso Di Noia  
+*IIR 2021*  
+\[[**code**](https://github.com/sisinflab/elliot)\]
+
 * **[A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems](https://www.researchgate.net/publication/350873965_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually-Aware_Recommender_Systems)**  
 Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Felice Antonio Merra  
 *CVPR Workshops*  
