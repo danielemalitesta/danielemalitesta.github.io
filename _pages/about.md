@@ -32,7 +32,7 @@ Vito Walter Anelli, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Fel
 
 * **[A Study on the Relative Importance of Convolutional Neural Networks in Visually-Aware Recommender Systems](https://www.researchgate.net/publication/350873965_A_Study_on_the_Relative_Importance_of_Convolutional_Neural_Networks_in_Visually-Aware_Recommender_Systems)**  
 Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Felice Antonio Merra  
-*CVPR Workshops*  
+*Workshop on Computer Vision for Fashion, Art, and Design @ CVPR 2021*  
 \[[**code**](https://github.com/sisinflab/CNNs-in-VRSs)\]
 
 * **[A Study of Defensive Methods to Protect Visual Recommendation Against Adversarial Manipulation of Images](https://www.researchgate.net/publication/350871619_A_Study_of_Defensive_Methods_to_Protect_Visual_Recommendation_Against_Adversarial_Manipulation_of_Images)**  
