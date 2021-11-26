@@ -15,9 +15,10 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 Corresponding authors are **bolded**.
 
 ## 2022
-* **[Leveraging Content-Style Item Representation for Visual Recommendation](https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation)** 
-*ECIR 2022* 
-**code to be released soon!** 
+* **[Leveraging Content-Style Item Representation for Visual Recommendation](https://www.researchgate.net/publication/356541933_Leveraging_Content-Style_Item_Representation_for_Visual_Recommendation)**  
+Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Felice Antonio Merra  
+*ECIR 2022*  
+**code to be released soon!**  
 
 ## 2021
 
