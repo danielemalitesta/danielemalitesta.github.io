@@ -15,7 +15,7 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 Corresponding authors are **bolded**.
 
 ## 2022
-* **[How Neighborhood Exploration influences Novelty and Diversity in Graph Collaborative Filtering]()**  
+* **[How Neighborhood Exploration influences Novelty and Diversity in Graph Collaborative Filtering](https://www.researchgate.net/publication/363056067_How_Neighborhood_Exploration_influences_Novelty_and_Diversity_in_Graph_Collaborative_Filtering)**  
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, Antonio Ferrara, **Daniele Malitesta**, **Claudio Pomo**  
 *2nd Workshop on Multi-Objective Recommender Systems @ RecSys2022*  
 \[[**code**](https://github.com/sisinflab/Novelty-Diversity-Graph)\]
