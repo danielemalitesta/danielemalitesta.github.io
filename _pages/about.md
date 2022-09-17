@@ -15,6 +15,11 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 Corresponding authors are **bolded**.
 
 ## 2022
+* **[Reshaping Graph Recommendation with Edge Graph Collaborative Filtering and Customer Reviews](https://www.researchgate.net/publication/363612298_Reshaping_Graph_Recommendation_with_Edge_Graph_Collaborative_Filtering_and_Customer_Reviews)**  
+Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, Antonio Ferrara, **Daniele Malitesta**, **Claudio Pomo**  
+*Workshop on Deep Learning for Search and Recommendation @ CIKM2022*  
+\[[**code**](https://github.com/sisinflab/Edge-Graph-Collaborative-Filtering)\]
+
 * **[How Neighborhood Exploration influences Novelty and Diversity in Graph Collaborative Filtering](https://www.researchgate.net/publication/363056067_How_Neighborhood_Exploration_influences_Novelty_and_Diversity_in_Graph_Collaborative_Filtering)**  
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, Antonio Ferrara, **Daniele Malitesta**, **Claudio Pomo**  
 *2nd Workshop on Multi-Objective Recommender Systems @ RecSys2022*  
