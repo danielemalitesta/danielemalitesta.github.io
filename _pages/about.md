@@ -22,7 +22,8 @@ Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Vinc
 
 * **An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework**  
 **Daniele Malitesta**, **Claudio Pomo**, Vito Walter Anelli, Tommaso Di Noia, Antonio Ferrara  
-*UMAP 2023*
+*UMAP 2023*  
+\[[**code**](https://github.com/sisinflab/Graph-Demo)\]
 
 
 ## 2022
