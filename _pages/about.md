@@ -20,7 +20,7 @@ Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Vinc
 *ECIR 2023*  
 \[[**code**](https://github.com/sisinflab/Evaluation-Graph-Collaborative-Filtering)\]
 
-* **An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework**  
+* **[An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework](https://www.researchgate.net/publication/371635693_An_Out-of-the-Box_Application_for_Reproducible_Graph_Collaborative_Filtering_extending_the_Elliot_Framework)**  
 **Daniele Malitesta**, **Claudio Pomo**, Vito Walter Anelli, Tommaso Di Noia, Antonio Ferrara  
 *UMAP 2023*  
 \[[**code**](https://github.com/sisinflab/Graph-Demo)\]
