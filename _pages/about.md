@@ -25,6 +25,11 @@ Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Vinc
 *UMAP 2023*  
 \[[**code**](https://github.com/sisinflab/Graph-Demo)\]
 
+* **[Disentangling the Performance Puzzle of Multimodal-aware Recommender Systems](https://www.researchgate.net/publication/371864661_Disentangling_the_Performance_Puzzle_of_Multimodal-aware_Recommender_Systems)**  
+**Daniele Malitesta**, **Giandomenico Cornacchia**, Claudio Pomo, Tommaso Di Noia
+*A Well-Rounded Evaluation of Recommender Sys-tems @ KDD2023*  
+\[[**code**](https://github.com/sisinflab/MultiModal-Eval)\]
+
 
 ## 2022
 * **[Reshaping Graph Recommendation with Edge Graph Collaborative Filtering and Customer Reviews](https://www.researchgate.net/publication/363612298_Reshaping_Graph_Recommendation_with_Edge_Graph_Collaborative_Filtering_and_Customer_Reviews)**  
