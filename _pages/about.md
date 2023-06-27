@@ -27,7 +27,7 @@ Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Vinc
 
 * **[Disentangling the Performance Puzzle of Multimodal-aware Recommender Systems](https://www.researchgate.net/publication/371864661_Disentangling_the_Performance_Puzzle_of_Multimodal-aware_Recommender_Systems)**  
 **Daniele Malitesta**, **Giandomenico Cornacchia**, Claudio Pomo, Tommaso Di Noia  
-*A Well-Rounded Evaluation of Recommender Systems @ KDD2023*  
+*2nd Workshop on A Well-Rounded Evaluation of Recommender Systems @ KDD2023*  
 \[[**code**](https://github.com/sisinflab/MultiModal-Eval)\]
 
 
