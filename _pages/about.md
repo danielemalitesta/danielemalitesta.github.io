@@ -15,6 +15,11 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 Corresponding authors are in **bold**.
 
 ## 2023
+* **Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**  
+Vito Walter Anelli, Daniele Malitesta, Claudio Pomo, Alejandro Bellogin, Eugenio Di Sciascio, Tommaso Di Noia   
+*RecSys 2023*  
+\[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]
+
 * **[Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering](https://www.researchgate.net/publication/366200699_Auditing_Consumer-_and_Producer-Fairness_in_Graph_Collaborative_Filtering)**  
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Vincenzo Paparella, **Claudio Pomo**  
 *ECIR 2023*  
