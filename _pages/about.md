@@ -12,7 +12,7 @@ Hi there! I'm Daniele Malitesta, a Ph.D. Student at Polytechnic University of Ba
 My main research topics are **Graph Representation Learning** and **Multimedia Recommendation**, but I'm also interested in Adversarial Machine Learning and Deep Learning. I'm working with Prof. Tommaso Di Noia.
 
 # Publications
-Corresponding authors are in **bold**.
+**Boldface** stands for to corresponding author(s).
 
 ## 2023
 * **Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**  
@@ -24,6 +24,11 @@ Vito Walter Anelli, Daniele Malitesta, Claudio Pomo, Alejandro Bellogin, Eugenio
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Vincenzo Paparella, **Claudio Pomo**  
 *ECIR 2023*  
 \[[**code**](https://github.com/sisinflab/Evaluation-Graph-Collaborative-Filtering)\]
+
+* **[Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation](https://www.researchgate.net/publication/371953905_Ducho_A_Unified_Framework_for_the_Extraction_of_Multimodal_Features_in_Recommendation)**  
+**Daniele Malitesta**, **Giuseppe Gassi**, Claudio Pomo, Tommaso Di Noia  
+*arXiv preprint arXiv:2306.17125*  
+\[[**code**](https://github.com/sisinflab/Ducho)\]
 
 * **[An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework](https://www.researchgate.net/publication/371635693_An_Out-of-the-Box_Application_for_Reproducible_Graph_Collaborative_Filtering_extending_the_Elliot_Framework)**  
 **Daniele Malitesta**, **Claudio Pomo**, Vito Walter Anelli, Tommaso Di Noia, Antonio Ferrara  
