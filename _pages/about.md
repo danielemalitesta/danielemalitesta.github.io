@@ -12,7 +12,7 @@ Hi there! I'm Daniele Malitesta, a Ph.D. Student at Polytechnic University of Ba
 My main research topics are **Graph Representation Learning** and **Multimedia Recommendation**, but I'm also interested in Adversarial Machine Learning and Deep Learning. I'm working with Prof. Tommaso Di Noia.
 
 # Publications
-**Boldface** stands for to corresponding author(s).
+**Boldface** stands for corresponding author(s).
 
 ## 2023
 * **Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**  
