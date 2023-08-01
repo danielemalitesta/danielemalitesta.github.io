@@ -27,6 +27,11 @@ Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Vinc
 
 * **[Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation](https://www.researchgate.net/publication/371953905_Ducho_A_Unified_Framework_for_the_Extraction_of_Multimodal_Features_in_Recommendation)**  
 **Daniele Malitesta**, **Giuseppe Gassi**, Claudio Pomo, Tommaso Di Noia  
+*ACM MM 2023*  
+\[[**code**](https://github.com/sisinflab/Ducho)\]
+
+* **[Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation](https://www.researchgate.net/publication/371953905_Ducho_A_Unified_Framework_for_the_Extraction_of_Multimodal_Features_in_Recommendation)**  
+**Daniele Malitesta**, **Giuseppe Gassi**, Claudio Pomo, Tommaso Di Noia  
 *arXiv preprint arXiv:2306.17125*  
 \[[**code**](https://github.com/sisinflab/Ducho)\]
 
