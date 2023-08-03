@@ -15,7 +15,7 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 **Boldface** stands for corresponding author(s).
 
 ## 2023
-* **Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis**  
+* **[Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis](https://www.researchgate.net/publication/372852714_Challenging_the_Myth_of_Graph_Collaborative_Filtering_a_Reasoned_and_Reproducibility-driven_Analysis)**  
 **Vito Walter Anelli**, **Daniele Malitesta**, **Claudio Pomo**, Alejandro Bellogin, Eugenio Di Sciascio, Tommaso Di Noia   
 *RecSys 2023*  
 \[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]
