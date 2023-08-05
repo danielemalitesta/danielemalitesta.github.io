@@ -20,6 +20,11 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 *RecSys 2023*  
 \[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]
 
+* **[An Out-of-the-Box Application for Reproducible Graph Collaborative Filtering extending the Elliot Framework](https://graph-learning-benchmarks.github.io/assets/papers/glb2023/An_Out_of_the_Box_Application_for_Reproducible_Graph_Collaborative_Filtering_extending_the_Elliot_Framework.pdf)**  
+**Daniele Malitesta**, **Claudio Pomo**, Vito Walter Anelli, Tommaso Di Noia, Antonio Ferrara  
+*3rd Workshop on Graph Learning Benchmarks @ KDD 2023*  
+\[[**code**](https://github.com/sisinflab/Graph-Demo)\]
+
 * **[Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering](https://www.researchgate.net/publication/366200699_Auditing_Consumer-_and_Producer-Fairness_in_Graph_Collaborative_Filtering)**  
 Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, **Daniele Malitesta**, Vincenzo Paparella, **Claudio Pomo**  
 *ECIR 2023*  
