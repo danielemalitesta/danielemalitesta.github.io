@@ -15,6 +15,11 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 **Boldface** stands for corresponding author(s).
 
 ## 2023
+* **[On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis](https://www.researchgate.net/publication/372958338_On_Popularity_Bias_of_Multimodal-aware_Recommender_Systems_a_Modalities-driven_Analysis)**  
+**Daniele Malitesta**, **Giandomenico Cornacchia**, Claudio Pomo, Tommaso Di Noia  
+*Workshop on Deep Multimodal Learning for Information Retrieval @ ACM Multimedia 2023*  
+\[[**code**](https://github.com/sisinflab/MultiMod-Popularity-Bias)\]
+
 * **[Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis](https://www.researchgate.net/publication/372852714_Challenging_the_Myth_of_Graph_Collaborative_Filtering_a_Reasoned_and_Reproducibility-driven_Analysis)**  
 **Vito Walter Anelli**, **Daniele Malitesta**, **Claudio Pomo**, Alejandro Bellogin, Eugenio Di Sciascio, Tommaso Di Noia   
 *RecSys 2023*  
