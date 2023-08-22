@@ -17,7 +17,7 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 ## 2023
 * **[A Topology-aware Analysis of Graph Collaborative Filtering](https://www.researchgate.net/publication/373263658_A_Topology-aware_Analysis_of_Graph_Collaborative_Filtering)**  
 **Daniele Malitesta**, **Claudio Pomo**, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia   
-*arXiv:2308.10778*  
+*arXiv preprint*  
 \[[**code**](https://github.com/sisinflab/Graph-Characteristics)\]
 
 * **[On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis](https://www.researchgate.net/publication/372958338_On_Popularity_Bias_of_Multimodal-aware_Recommender_Systems_a_Modalities-driven_Analysis)**  
