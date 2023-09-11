@@ -15,6 +15,11 @@ My main research topics are **Graph Representation Learning** and **Multimedia R
 **Boldface** stands for corresponding author(s).
 
 ## 2023
+* **[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://www.researchgate.net/publication/373823768_Formalizing_Multimedia_Recommendation_through_Multimodal_Deep_Learning)**  
+**Daniele Malitesta**, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
+*arXiv preprint*  
+\[[**code**](https://github.com/sisinflab/Formal-MultiMod-Rec)\]
+
 * **[A Topology-aware Analysis of Graph Collaborative Filtering](https://www.researchgate.net/publication/373263658_A_Topology-aware_Analysis_of_Graph_Collaborative_Filtering)**  
 **Daniele Malitesta**, **Claudio Pomo**, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia   
 *arXiv preprint*  
