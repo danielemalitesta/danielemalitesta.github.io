@@ -41,7 +41,7 @@ _Daniele Malitesta_, _Giandomenico Cornacchia_, Claudio Pomo, Tommaso Di Noia
 * **[Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis](https://www.researchgate.net/publication/372852714_Challenging_the_Myth_of_Graph_Collaborative_Filtering_a_Reasoned_and_Reproducibility-driven_Analysis)**  
 _Vito Walter Anelli_, _Daniele Malitesta_, _Claudio Pomo_, Alejandro Bellogin, Eugenio Di Sciascio, Tommaso Di Noia   
 *RecSys 2023*  
-\[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]
+\[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]\[[**slides**](https://www.slideshare.net/DanieleMalitesta/recsys2023-challenging-the-myth-of-graph-collaborative-filtering-a-reasoned-and-reproducibilitydriven-analysis)\]
 
 * **[Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation](https://www.researchgate.net/publication/371953905_Ducho_A_Unified_Framework_for_the_Extraction_of_Multimodal_Features_in_Recommendation)**  
 _Daniele Malitesta_, _Giuseppe Gassi_, Claudio Pomo, Tommaso Di Noia  
