@@ -16,7 +16,7 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * NeurIPS
 * TGL@NeurIPS
 * LoG
-* RecSys (\**outstanding reviewer\**)
+* RecSys (\*\*outstanding reviewer\*\*)
 * KaRS@RecSys
 * LERI@RecSys
 * EvalRS@KDD
