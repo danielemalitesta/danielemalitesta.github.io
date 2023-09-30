@@ -23,27 +23,27 @@ My main research topics are **Graph Representation Learning**, **Recommender Sys
 A selection of recent publications (for the full list, please visit this [link](https://danielemalitesta.github.io/publications/)).
 
 * **[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://www.researchgate.net/publication/373823768_Formalizing_Multimedia_Recommendation_through_Multimodal_Deep_Learning)**  
-**Daniele Malitesta**, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
+_Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
 *arXiv preprint*  
 \[[**code**](https://github.com/sisinflab/Formal-MultiMod-Rec)\]
 
 * **[A Topology-aware Analysis of Graph Collaborative Filtering](https://www.researchgate.net/publication/373263658_A_Topology-aware_Analysis_of_Graph_Collaborative_Filtering)**  
-**Daniele Malitesta**, **Claudio Pomo**, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia   
+_Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia   
 *arXiv preprint*  
 \[[**code**](https://github.com/sisinflab/Graph-Characteristics)\]
 
 * **[On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis](https://www.researchgate.net/publication/372958338_On_Popularity_Bias_of_Multimodal-aware_Recommender_Systems_a_Modalities-driven_Analysis)**  
-**Daniele Malitesta**, **Giandomenico Cornacchia**, Claudio Pomo, Tommaso Di Noia  
+_Daniele Malitesta_, _Giandomenico Cornacchia_, Claudio Pomo, Tommaso Di Noia  
 *Workshop on Deep Multimodal Learning for Information Retrieval @ ACM Multimedia 2023*  
 \[[**code**](https://github.com/sisinflab/MultiMod-Popularity-Bias)\]
 
 * **[Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis](https://www.researchgate.net/publication/372852714_Challenging_the_Myth_of_Graph_Collaborative_Filtering_a_Reasoned_and_Reproducibility-driven_Analysis)**  
-**Vito Walter Anelli**, **Daniele Malitesta**, **Claudio Pomo**, Alejandro Bellogin, Eugenio Di Sciascio, Tommaso Di Noia   
+_Vito Walter Anelli_, _Daniele Malitesta_, _Claudio Pomo_, Alejandro Bellogin, Eugenio Di Sciascio, Tommaso Di Noia   
 *RecSys 2023*  
 \[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]
 
 * **[Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation](https://www.researchgate.net/publication/371953905_Ducho_A_Unified_Framework_for_the_Extraction_of_Multimodal_Features_in_Recommendation)**  
-**Daniele Malitesta**, **Giuseppe Gassi**, Claudio Pomo, Tommaso Di Noia  
+_Daniele Malitesta_, _Giuseppe Gassi_, Claudio Pomo, Tommaso Di Noia  
 *ACM Multimedia 2023*  
 \[[**code**](https://github.com/sisinflab/Ducho)\]
 
