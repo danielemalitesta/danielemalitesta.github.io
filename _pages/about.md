@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi there! I'm Daniele Malitesta, Ph.D. Candidate at Polytechnic University of Bari (Italy). 
 
-My main research topics are **Graph Representation Learning**, **Recommender Systems**, and **Multimodal Deep Learning**. I'm working with Prof. Tommaso Di Noia.
+My main research topics are _Graph Representation Learning_, _Recommender Systems_, and _Multimodal Deep Learning_. I'm working with Prof. Tommaso Di Noia.
 
 # Upcoming events
 * _[11-01-2023]_ I'll attend MM 2023 in Ottawa (ON, Canada) to present our resource paper about **[Ducho](https://github.com/sisinflab/Ducho/tree/main)**.
