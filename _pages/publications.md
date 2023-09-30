@@ -99,7 +99,7 @@ Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, _Daniele Malitesta_, _Felic
 \[[**code**](https://github.com/sisinflab/Visual-Adversarial-Recommendation)\]
 
 * **[Elliot: a Comprehensive and Rigorous Framework for Reproducible Recommender Systems Evaluation](https://www.researchgate.net/publication/349758875_Elliot_a_Comprehensive_and_Rigorous_Framework_for_Reproducible_Recommender_Systems_Evaluation)**  
-**Vito Walter Anelli**, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, **Claudio Pomo**, Francesco Maria Donini, Tommaso Di Noia  
+_Vito Walter Anelli_, Alejandro Bellogín, Antonio Ferrara, Daniele Malitesta, Felice Antonio Merra, _Claudio Pomo_, Francesco Maria Donini, Tommaso Di Noia  
 *SIGIR 2021*  
 \[[**code**](https://github.com/sisinflab/elliot)\]
 
