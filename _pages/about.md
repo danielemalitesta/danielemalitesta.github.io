@@ -47,15 +47,6 @@ _Daniele Malitesta_, _Giuseppe Gassi_, Claudio Pomo, Tommaso Di Noia
 *ACM Multimedia 2023*  
 \[[**code**](https://github.com/sisinflab/Ducho)\]
 
-# Education
-I got my Bachelor's Degree in Computer Science and Automation Engineering in 2017 (full marks with honors) with a thesis in Electrical Communications entitled *"Performance Evaluation of Data-Centric Networks based upon Semantic Naming Algorithms"*.
-
-Then, I got my Master's Degree in Computer Science Engineering in 2019 (full marks with honors) with a thesis in Logic and Artificial Intelligence entitled *"Novel Approaches to Image Compression via Deep Learning"*.
-
-From January 2020 to November 2020 I worked as Research Assistant at Polytechnic of Bari. 
-
-Starting from November 2020, I'm a Ph.D. Student working on Graph Representation Learning techniques for Multimodal-aware Recommender Systems.
-
 # Contacts
 * institutional email: [**daniele.malitesta@poliba.it**](mailto:daniele.malitesta@poliba.it)
 * personal email: [**d.malitesta@gmail.com**](mailto:d.malitesta@gmail.com)
