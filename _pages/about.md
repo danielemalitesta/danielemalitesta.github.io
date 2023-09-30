@@ -15,7 +15,7 @@ My main research topics are **Graph Representation Learning**, **Recommender Sys
 * In late October I'll attend MM 2023 in Ottawa (Canada) to present our resource paper about **[Ducho](https://github.com/sisinflab/Ducho/tree/main)**.
 
 # Latest news
-* **_[NEW]_** I've been selected as one of the **outstanding reviewers** at RecSys 2023!
+* **_[NEW]_** I've been selected as one of the outstanding reviewers at RecSys 2023!
 * **_[NEW]_** I've presented our reproducibility paper about graph-based recommender systems at RecSys 2023.
 
 # Publications
