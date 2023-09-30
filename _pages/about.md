@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm Daniele Malitesta, Ph.D. Candidate at Polytechnic University of Bari (Italy) under the supervision of Prof. Tommaso Di Noia.
+Hi there! I'm Daniele Malitesta, Ph.D. Candidate at Polytechnic University of Bari (Italy) supervised by Prof. Tommaso Di Noia.
 
 My main research topics are _Graph Representation Learning_, _Recommender Systems_, and _Multimodal Deep Learning_.
 
