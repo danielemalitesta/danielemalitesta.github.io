@@ -12,7 +12,7 @@ Hi there! I'm Daniele Malitesta, Ph.D. Candidate at Polytechnic University of Ba
 My main research topics are **Graph Representation Learning**, **Recommender Systems**, and **Multimodal Deep Learning**. I'm working with Prof. Tommaso Di Noia.
 
 # Upcoming events
-* In late October I'll attend MM 2023 in Ottawa (Canada) to present our resource paper about **[Ducho](https://github.com/sisinflab/Ducho/tree/main)**.
+* In late October I'll attend MM 2023 in Ottawa (ON, Canada) to present our resource paper about **[Ducho](https://github.com/sisinflab/Ducho/tree/main)**.
 
 # Latest news
 * **_[NEW]_** I've been selected as one of the [outstanding reviewers](https://twitter.com/ACMRecSys/status/1704835968191316207) at RecSys 2023!
