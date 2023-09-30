@@ -12,6 +12,7 @@ Hi there! I'm Daniele Malitesta, Ph.D. Candidate at Polytechnic University of Ba
 My main research topics are _Graph Representation Learning_, _Recommender Systems_, and _Multimodal Deep Learning_.
 
 # Upcoming events
+* _[11-02-2023]_ Giandomenico Cornacchia will present our [paper](https://arxiv.org/pdf/2308.12911.pdf) about popularity bias in multimodal-aware recommendation at the MMIR workshop co-located with MM 2023 in Ottawa (ON, Canada).
 * _[11-01-2023]_ I'll attend MM 2023 in Ottawa (ON, Canada) to present our resource paper about **[Ducho](https://github.com/sisinflab/Ducho/tree/main)**.
 
 # Latest news
