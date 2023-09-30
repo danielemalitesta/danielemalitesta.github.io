@@ -34,7 +34,7 @@ _Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Man
 
 * **[On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis](https://www.researchgate.net/publication/372958338_On_Popularity_Bias_of_Multimodal-aware_Recommender_Systems_a_Modalities-driven_Analysis)**  
 _Daniele Malitesta_, _Giandomenico Cornacchia_, Claudio Pomo, Tommaso Di Noia  
-*Workshop on Deep Multimodal Learning for Information Retrieval @ ACM Multimedia 2023*  
+*Workshop on Deep Multimodal Learning for Information Retrieval @ MM 2023*  
 \[[**code**](https://github.com/sisinflab/MultiMod-Popularity-Bias)\]
 
 * **[Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis](https://www.researchgate.net/publication/372852714_Challenging_the_Myth_of_Graph_Collaborative_Filtering_a_Reasoned_and_Reproducibility-driven_Analysis)**  
@@ -44,7 +44,7 @@ _Vito Walter Anelli_, _Daniele Malitesta_, _Claudio Pomo_, Alejandro Bellogin, E
 
 * **[Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation](https://www.researchgate.net/publication/371953905_Ducho_A_Unified_Framework_for_the_Extraction_of_Multimodal_Features_in_Recommendation)**  
 _Daniele Malitesta_, _Giuseppe Gassi_, Claudio Pomo, Tommaso Di Noia  
-*ACM Multimedia 2023*  
+*MM 2023*  
 \[[**code**](https://github.com/sisinflab/Ducho)\]
 
 # Contacts
