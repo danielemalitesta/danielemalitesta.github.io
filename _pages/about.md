@@ -16,7 +16,7 @@ My main research topics are **Graph Representation Learning**, **Recommender Sys
 
 # Latest news
 * **_[NEW]_** I've been selected as one of the [outstanding reviewers](https://twitter.com/ACMRecSys/status/1704835968191316207) at RecSys 2023!
-* **_[NEW]_** I've presented our [reproducibility paper]((https://dl.acm.org/doi/10.1145/3604915.3609489)) about graph-based recommender systems at RecSys 2023.
+* **_[NEW]_** I've presented our [reproducibility paper](https://dl.acm.org/doi/10.1145/3604915.3609489) about graph-based recommender systems at RecSys 2023.
 * Our latest theoretical/experimental survey about multimodal deep learning for multimedia recommendation is out on [arXiv](https://arxiv.org/pdf/2309.05273.pdf)!
 
 # Publications
