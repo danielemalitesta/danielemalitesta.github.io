@@ -13,7 +13,7 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 
 # Upcoming events
 * _[11-02-2023]_ Giandomenico Cornacchia will present our [paper](https://arxiv.org/pdf/2308.12911.pdf) about popularity bias in multimodal-aware recommendation at the MMIR workshop co-located with MM 2023 in Ottawa (ON, Canada).
-* _[11-01-2023]_ I'll present our resource [paper](https://arxiv.org/pdf/2306.17125.pdf) about **[Ducho](https://github.com/sisinflab/Ducho/tree/main)** at MM 2023 in Ottawa (ON, Canada).
+* _[11-01-2023]_ I'll present our resource [paper](https://arxiv.org/pdf/2306.17125.pdf) about [Ducho](https://github.com/sisinflab/Ducho/tree/main) at MM 2023 in Ottawa (ON, Canada).
 
 # Latest news
 * _[09-20-2023]_ I was selected as one of the [outstanding reviewers](https://twitter.com/ACMRecSys/status/1704835968191316207) at RecSys 2023!
