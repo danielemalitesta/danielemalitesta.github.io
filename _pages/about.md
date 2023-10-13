@@ -16,9 +16,9 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 * _[11-01-2023]_ I'll present our resource [paper](https://arxiv.org/pdf/2306.17125.pdf) about [Ducho](https://github.com/sisinflab/Ducho/tree/main) at MM 2023 in Ottawa (ON, Canada).
 
 # Latest news
+* _[10-13-2023]_ The workshop IRonGraphs has been officially accepted to be held at ECIR 2024! I am among the organizers with Ludovico Boratto, Mirok Marras, Giacomo Medda, Cataldo Musto, and Erasmo Purificato.
 * _[09-20-2023]_ I was selected as one of the [outstanding reviewers](https://twitter.com/ACMRecSys/status/1704835968191316207) at RecSys 2023!
 * _[09-20-2023]_ I presented our [reproducibility paper](https://dl.acm.org/doi/10.1145/3604915.3609489) about graph-based recommender systems at RecSys 2023.
-* _[09-11-2023]_ Our latest theoretical/experimental survey about multimodal deep learning for multimedia recommendation is out on [arXiv](https://arxiv.org/pdf/2309.05273.pdf)!
 
 # Recent publications
 A selection of recent publications (for the full list, please visit this [link](https://danielemalitesta.github.io/publications/)).
