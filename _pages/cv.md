@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](https://drive.google.com/file/d/1rL_7L0qYKIF1BE8lq8wjADkd2zbm-dNI/view?usp=sharing) for the complete pdf version of my CV.
+Click [here](https://danielemalitesta.github.io/assets/Curriculum_Vitae_Advanced.pdf) for the complete pdf version of my CV.
 
 Education
 ======
