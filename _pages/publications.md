@@ -9,6 +9,12 @@ author_profile: true
 _Italic_ stands for corresponding author(s).
 
 ## 2023
+
+* **Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**  
+_Daniele Malitesta_, _Claudio Pomo_, Tommaso Di Noia   
+*LoG 2023*  
+\[[**code**](https://github.com/sisinflab/tutorial-gnns-recsys-log2023)\]
+
 * **[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://www.researchgate.net/publication/373823768_Formalizing_Multimedia_Recommendation_through_Multimodal_Deep_Learning)**  
 _Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
 *arXiv preprint*  
