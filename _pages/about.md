@@ -24,6 +24,11 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 # Recent publications
 A selection of recent publications (for the full list, please visit this [link](https://danielemalitesta.github.io/publications/)).
 
+* **Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**  
+_Daniele Malitesta_, _Claudio Pomo_, Tommaso Di Noia   
+*LoG 2023 (Tutorials)*  
+\[[**code**]([https://github.com/sisinflab/Formal-MultiMod-Rec)](https://github.com/sisinflab/tutorial-gnns-recsys-log2023)\]
+
 * **[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://www.researchgate.net/publication/373823768_Formalizing_Multimedia_Recommendation_through_Multimodal_Deep_Learning)**  
 _Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
 *arXiv preprint*  
