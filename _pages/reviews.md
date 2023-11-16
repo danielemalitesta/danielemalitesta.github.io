@@ -24,6 +24,8 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * ECIR (subreviewer)
 * The Web Conf (subreviewer)
 * ISIR-eComm@The Web Conf
+* TOIS
+* UMUAI
 
 ## 2022
 * The Web Conf (subreviewer)
