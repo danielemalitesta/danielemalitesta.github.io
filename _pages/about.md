@@ -12,7 +12,7 @@ Hi there! I'm Daniele Malitesta, Ph.D. Candidate at Polytechnic University of Ba
 My main research topics are _Graph Representation Learning_, _Recommender Systems_, and _Multimodal Deep Learning_.
 
 # Upcoming events
-* _[11-30-2023]_ Me, Claudio Pomo, and Tommaso Di Noia will present our [tutorial](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/) "Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation" at LoG 2023!
+* _[11-30-2023]_ Me, Claudio Pomo, and Tommaso Di Noia will present our [tutorial](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/) "Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation" at [Log 2023](https://logconference.org/) (5pm-8pm GMT)!
 
 # Latest news
 * _[11-02-2023]_ I presented our [paper](https://arxiv.org/pdf/2308.12911.pdf) about popularity bias in multimodal-aware recommendation at the MMIR workshop co-located with MM 2023.
