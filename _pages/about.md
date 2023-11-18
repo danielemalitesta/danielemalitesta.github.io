@@ -13,7 +13,7 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 
 # Upcoming events
 * _[11-30-2023]_ Me, Claudio Pomo, and Tommaso Di Noia will present our [tutorial](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/) "Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation" at [Log 2023](https://logconference.org/) (5pm-8pm GMT)!
-* _[11-16-2023]_ We are looking reviewers for our workshop [IRonGraphs](https://irongraphs.github.io/ecir2024/), co-located with ECIR 2024. Apply [here](https://docs.google.com/forms/u/1/d/1aOw_1UufQ2gz_5qBDmp7I4_ePapf4scOEY8ar4LYqDE/edit)!
+* _[11-16-2023]_ We are looking for reviewers for our workshop [IRonGraphs](https://irongraphs.github.io/ecir2024/), co-located with ECIR 2024. Apply [here](https://docs.google.com/forms/u/1/d/1aOw_1UufQ2gz_5qBDmp7I4_ePapf4scOEY8ar4LYqDE/edit)!
 
 # Latest news
 * _[11-02-2023]_ I presented our [paper](https://arxiv.org/pdf/2308.12911.pdf) about popularity bias in multimodal-aware recommendation at the MMIR workshop co-located with MM 2023.
