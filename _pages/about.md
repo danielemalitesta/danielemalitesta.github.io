@@ -19,7 +19,6 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 * _[11-02-2023]_ I presented our [paper](https://arxiv.org/pdf/2308.12911.pdf) about popularity bias in multimodal-aware recommendation at the MMIR workshop co-located with MM 2023.
 * _[11-01-2023]_ I presented our resource [paper](https://arxiv.org/pdf/2306.17125.pdf) about [Ducho](https://github.com/sisinflab/Ducho/tree/main) at MM 2023.
 * _[10-17-2023]_ "Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation" was accepted as tutorial at LoG 2023 (check out the [website](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/))!
-* _[10-13-2023]_ The workshop [IRonGraphs](https://irongraphs.github.io/ecir2024/) has been officially accepted to be held at ECIR 2024!
 
 # Recent publications
 A selection of recent publications (for the full list, please visit this [link](https://danielemalitesta.github.io/publications/)).
