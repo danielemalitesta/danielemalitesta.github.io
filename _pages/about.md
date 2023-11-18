@@ -26,7 +26,7 @@ A selection of recent publications (for the full list, please visit this [link](
 * **[Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation](https://arxiv.org/pdf/2310.11270.pdf)**  
 _Daniele Malitesta_, _Claudio Pomo_, Tommaso Di Noia   
 *LoG 2023*  
-\[[**code**](https://github.com/sisinflab/tutorial-gnns-recsys-log2023)\]
+\[[**website**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/)\]\[[**code**](https://github.com/sisinflab/tutorial-gnns-recsys-log2023)\]
 
 * **[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://www.researchgate.net/publication/373823768_Formalizing_Multimedia_Recommendation_through_Multimodal_Deep_Learning)**  
 _Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
