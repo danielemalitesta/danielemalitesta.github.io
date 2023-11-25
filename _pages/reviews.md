@@ -11,6 +11,7 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 ## 2024
 * ICLR
 * ECIR
+* GCLR@AAAI
 
 ## 2023
 * NeurIPS
