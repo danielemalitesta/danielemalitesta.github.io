@@ -12,6 +12,7 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * ICLR
 * ECIR
 * GCLR@AAAI
+* TKDE
 
 ## 2023
 * NeurIPS
