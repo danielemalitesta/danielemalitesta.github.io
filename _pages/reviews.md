@@ -8,6 +8,7 @@ author_profile: true
 
 This is a non-exhaustive list of the conferences/journals I've been invited to serve as reviewer in my research career so far.
 
+---
 # Conferences
 
 ## 2024
@@ -39,6 +40,7 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * CIKM (subreviewer)
 * KaRS@RecSys
 
+---
 # Journals
 
 ## 2023
