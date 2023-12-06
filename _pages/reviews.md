@@ -8,11 +8,13 @@ author_profile: true
 
 This is a non-exhaustive list of the conferences/journals I've been invited to serve as reviewer in my research career so far.
 
+# Conferences
+
 ## 2024
 * ICLR
 * ECIR
 * GCLR@AAAI
-* TKDE
+* SIGIR
 
 ## 2023
 * NeurIPS
@@ -26,8 +28,6 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * ECIR (subreviewer)
 * The Web Conf (subreviewer)
 * ISIR-eComm@The Web Conf
-* TOIS
-* UMUAI
 
 ## 2022
 * The Web Conf (subreviewer)
@@ -38,3 +38,10 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * MM (subreviewer)
 * CIKM (subreviewer)
 * KaRS@RecSys
+
+# Journals
+
+## 2023
+* UMUAI
+* TOIS
+* TKDE
