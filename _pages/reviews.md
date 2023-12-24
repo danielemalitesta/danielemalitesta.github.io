@@ -17,6 +17,7 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * ECIR
 * GCLR@AAAI
 * SIGIR
+* UMAP
 
 ## 2023
 * NeurIPS
