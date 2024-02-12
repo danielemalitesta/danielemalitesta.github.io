@@ -17,6 +17,9 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * ECIR
 * GCLR@AAAI
 * SIGIR
+* RecSys
+* MM
+* ECAI
 * UMAP
 
 ## 2023
