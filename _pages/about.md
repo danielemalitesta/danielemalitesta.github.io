@@ -7,18 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm Daniele Malitesta, Ph.D. Candidate at Polytechnic University of Bari (Italy) supervised by Prof. Tommaso Di Noia.
+Hi there! I'm Daniele Malitesta, Postdoc researcher at CentraleSupélec (Université Paris-Saclay) working with Prof. Fragkiskos Malliaros.
+
+Previously, I pursued my PhD in Electrical and Information Engineering at Politecnico di Bari under the supervision of Prof. Tommaso Di Noia.
 
 My main research topics are _Graph Representation Learning_, _Recommender Systems_, and _Multimodal Deep Learning_.
 
 # Upcoming events
-* _[Nov 30, 2023]_ Me, Claudio Pomo, and Tommaso Di Noia will present our [tutorial](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/) "Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation" at [Log 2023](https://logconference.org/) (5pm-8pm GMT)!
+* _[Mar 01, 2024]_ I will join CentraleSupélec (Université Paris-Saclay) working as postdoc researcher with Prof. Fragkiskos Malliaros on very cool graph machine learning topics!
 
 # Latest news
-* _[Nov 16, 2023]_ We are looking for reviewers for our workshop [IRonGraphs](https://irongraphs.github.io/ecir2024/), co-located with ECIR 2024. Apply [here](https://docs.google.com/forms/u/1/d/1aOw_1UufQ2gz_5qBDmp7I4_ePapf4scOEY8ar4LYqDE/edit)!
-* _[Nov 02, 2023]_ I presented our [paper](https://arxiv.org/pdf/2308.12911.pdf) about popularity bias in multimodal-aware recommendation at the MMIR workshop co-located with MM 2023.
-* _[Nov 01, 2023]_ I presented our resource [paper](https://arxiv.org/pdf/2306.17125.pdf) about [Ducho](https://github.com/sisinflab/Ducho/tree/main) at MM 2023.
-* _[Oct 17, 2023]_ "Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation" was accepted as tutorial at LoG 2023 (check out the [website](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/))!
+* _[Feb 05, 2024]_ I gave a talk at Glasgow Information Retrieval Group at the University of Glasgow entitled:**A Topology-aware Analysis of Graph Collaborative Filtering**.
+* _[Jan 30, 2024]_ I successfully defended my PhD thesis entitled: **Graph Neural Networks for Recommendation leveraging Multimodal Information**!
+* _[Nov 30, 2023]_ Me, Claudio Pomo, and Tommaso Di Noia presented our [tutorial](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/) "Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation" at [Log 2023](https://logconference.org/).
 
 # Recent publications
 A selection of recent publications (for the full list, please visit this [link](https://danielemalitesta.github.io/publications/)).
@@ -54,6 +55,6 @@ _Daniele Malitesta_, _Giuseppe Gassi_, Claudio Pomo, Tommaso Di Noia
 \[[**code**](https://github.com/sisinflab/Ducho)\]
 
 # Contacts
-* institutional email: [**daniele.malitesta@poliba.it**](mailto:daniele.malitesta@poliba.it)
+* institutional email: TO BE ANNOUNCED
 * personal email: [**d.malitesta@gmail.com**](mailto:d.malitesta@gmail.com)
-* institutional webpage: [**http://sisinflab.poliba.it/malitesta**](http://sisinflab.poliba.it/malitesta)
+* institutional webpage:TO BE ANNOUNCED
