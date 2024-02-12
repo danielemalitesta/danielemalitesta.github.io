@@ -17,7 +17,7 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 * _[Mar 01, 2024]_ I will join CentraleSupélec (Université Paris-Saclay) working as postdoc researcher with Prof. Fragkiskos Malliaros on very cool graph machine learning topics!
 
 # Latest news
-* _[Feb 05, 2024]_ I gave a talk at Glasgow Information Retrieval Group at the University of Glasgow entitled:**A Topology-aware Analysis of Graph Collaborative Filtering**.
+* _[Feb 05, 2024]_ I gave a talk at Glasgow Information Retrieval Group at the University of Glasgow entitled: **A Topology-aware Analysis of Graph Collaborative Filtering**.
 * _[Jan 30, 2024]_ I successfully defended my PhD thesis entitled: **Graph Neural Networks for Recommendation leveraging Multimodal Information**!
 * _[Nov 30, 2023]_ Me, Claudio Pomo, and Tommaso Di Noia presented our [tutorial](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/) "Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation" at [Log 2023](https://logconference.org/).
 
