@@ -55,6 +55,6 @@ _Daniele Malitesta_, _Giuseppe Gassi_, Claudio Pomo, Tommaso Di Noia
 \[[**code**](https://github.com/sisinflab/Ducho)\]
 
 # Contacts
-* institutional email: TO BE ANNOUNCED
+* institutional email: [**daniele.malitesta@centralesupelec.fr**](mailto:daniele.malitesta@centralesupelec.fr)
 * personal email: [**d.malitesta@gmail.com**](mailto:d.malitesta@gmail.com)
 * institutional webpage: TO BE ANNOUNCED
