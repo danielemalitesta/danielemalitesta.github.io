@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-This is a non-exhaustive list of the conferences/journals I've been invited to serve as reviewer in my research career so far.
+This is a non-exhaustive list of the conferences/journals I've been invited to serve as a reviewer in my research career so far.
 
 ---
 # Conferences
@@ -14,6 +14,7 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 ## 2024
 * ICML
 * ICLR
+* ECML PKDD
 * ECIR
 * GCLR@AAAI
 * SIGIR
