@@ -25,7 +25,7 @@ _George Panagopoulos_, Daniele Malitesta, Fragkiskos D. Malliaros, Jun Pang
 
 * **[KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering](https://arxiv.org/pdf/2403.20095.pdf)**  
 _Salvatore Bufi_, _Alberto Carlo Maria Mancino_, _Antonio Ferrara_, Daniele Malitesta, Tommaso Di Noia, Eugenio Di Sciascio       
-*First International Workshop on Graph-Based Approaches in Information Retrieval (IRonGraphs@ECIR 2024)*  
+*1st International Workshop on Graph-Based Approaches in Information Retrieval @ ECIR 2024*  
 \[[**code**](https://github.com/sisinflab/KGUF)\]
 
 ## 2023
