@@ -28,7 +28,7 @@ A selection of recent publications (for the full list, please visit this [link](
 
 * **[Ducho 2.0: Towards a More Up-to-Date Unified Framework for the Extraction of Multimodal Features in Recommendation](https://arxiv.org/pdf/2403.04503.pdf)**  
 Matteo Attimonelli, Danilo Danese, Daniele Malitesta, Claudio Pomo, Giuseppe Gassi, Tommaso Di Noia   
-*arXiv preprint*  
+*The 2024 ACM Web Conference*  
 \[[**code**](https://github.com/sisinflab/Ducho)\]
 
 * **[Dealing with Missing Modalities in Multimodal Recommendation: a Feature Propagation-based Approach](https://arxiv.org/pdf/2403.19841.pdf)**  
