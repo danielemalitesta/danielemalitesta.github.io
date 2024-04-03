@@ -8,6 +8,26 @@ author_profile: true
 
 _Italic_ stands for corresponding author(s).
 
+## 2024
+
+* **[Ducho 2.0: Towards a More Up-to-Date Unified Framework for the Extraction of Multimodal Features in Recommendation](https://arxiv.org/pdf/2403.04503.pdf)**  
+Matteo Attimonelli, Danilo Danese, Daniele Malitesta, Claudio Pomo, Giuseppe Gassi, Tommaso Di Noia   
+*The 2024 ACM Web Conference*  
+\[[**code**](https://github.com/sisinflab/Ducho)\]
+
+* **[Dealing with Missing Modalities in Multimodal Recommendation: a Feature Propagation-based Approach](https://arxiv.org/pdf/2403.19841.pdf)**  
+_Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Fragkiskos D. Malliaros, Tommaso Di Noia   
+*arXiv preprint*
+
+* **[Graph Neural Networks for Treatment Effect Prediction](https://arxiv.org/pdf/2403.19289v1.pdf)**  
+_George Panagopoulos_, Daniele Malitesta, Fragkiskos D. Malliaros, Jun Pang     
+*arXiv preprint*
+
+* **[KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering](https://arxiv.org/pdf/2403.20095.pdf)**  
+_Salvatore Bufi_, _Alberto Carlo Maria Mancino_, _Antonio Ferrara_, Daniele Malitesta, Tommaso Di Noia, Eugenio Di Sciascio       
+*arXiv preprint*  
+\[[**code**](https://github.com/sisinflab/KGUF)\]
+
 ## 2023
 
 * **[Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation](https://arxiv.org/pdf/2310.11270.pdf)**  
