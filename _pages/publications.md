@@ -43,7 +43,7 @@ _Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra
 * **[A Topology-aware Analysis of Graph Collaborative Filtering](https://www.researchgate.net/publication/373263658_A_Topology-aware_Analysis_of_Graph_Collaborative_Filtering)**  
 _Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia   
 *arXiv preprint*  
-\[[**code**](https://github.com/sisinflab/Graph-Characteristics)\]
+\[[**code**](https://github.com/sisinflab/Graph-Characteristics)\]\[[**slides**](https://www.slideshare.net/slideshow/irtalks-the-university-of-glasgow-a-topologyaware-analysis-of-graph-collaborative-filtering/266291449)\]
 
 * **[On Popularity Bias of Multimodal-aware Recommender Systems: a Modalities-driven Analysis](https://www.researchgate.net/publication/372958338_On_Popularity_Bias_of_Multimodal-aware_Recommender_Systems_a_Modalities-driven_Analysis)**  
 _Daniele Malitesta_, _Giandomenico Cornacchia_, Claudio Pomo, Tommaso Di Noia  
