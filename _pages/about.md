@@ -52,17 +52,8 @@ _Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra
 * **[A Topology-aware Analysis of Graph Collaborative Filtering](https://arxiv.org/pdf/2308.10778.pdf)**  
 _Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia   
 *arXiv preprint*  
-\[[**code**](https://github.com/sisinflab/Graph-Characteristics)\]
+\[[**code**](https://github.com/sisinflab/Graph-Characteristics)\]\[[**slides**](https://www.slideshare.net/slideshow/irtalks-the-university-of-glasgow-a-topologyaware-analysis-of-graph-collaborative-filtering/266291449)\]
 
-* **[Challenging the Myth of Graph Collaborative Filtering: a Reasoned and Reproducibility-driven Analysis](https://arxiv.org/pdf/2308.00404.pdf)**  
-_Vito Walter Anelli_, _Daniele Malitesta_, _Claudio Pomo_, Alejandro Bellogin, Eugenio Di Sciascio, Tommaso Di Noia   
-*RecSys 2023*  
-\[[**code**](https://github.com/sisinflab/Graph-RSs-Reproducibility)\]\[[**slides**](https://www.slideshare.net/DanieleMalitesta/recsys2023-challenging-the-myth-of-graph-collaborative-filtering-a-reasoned-and-reproducibilitydriven-analysis)\]
-
-* **[Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation](https://arxiv.org/pdf/2306.17125.pdf)**  
-_Daniele Malitesta_, _Giuseppe Gassi_, Claudio Pomo, Tommaso Di Noia  
-*MM 2023*  
-\[[**code**](https://github.com/sisinflab/Ducho)\]
 
 # Contacts
 * institutional email: [**daniele.malitesta@centralesupelec.fr**](mailto:daniele.malitesta@centralesupelec.fr)
