@@ -14,7 +14,6 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 ## 2024
 * ICML
 * ICLR
-* ECML PKDD
 * ECIR
 * GCLR@AAAI
 * SIGIR
