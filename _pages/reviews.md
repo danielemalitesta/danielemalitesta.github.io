@@ -11,6 +11,9 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 ---
 # Conferences
 
+## 2025
+* AAAI
+
 ## 2024
 * ICML
 * ICLR
@@ -18,7 +21,9 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * GCLR@AAAI
 * SIGIR
 * CIKM
+* LoG
 * RecSys
+* KaRS@RecSys
 * MM
 * ECAI
 * UMAP
