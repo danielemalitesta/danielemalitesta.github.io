@@ -11,7 +11,7 @@ _Italic_ stands for corresponding author(s).
 ## 2024
 
 * **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**  
-_Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Fragkiskos D. Malliaros, Tommaso Di Noia   
+_Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Tommaso Di Noia, Fragkiskos D. Malliaros     
 *CIKM 2024*  
 
 * **[Uplift Modelling under Limited Supervision](https://arxiv.org/pdf/2403.19289)**  
