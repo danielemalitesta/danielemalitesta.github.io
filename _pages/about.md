@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Daniele Malitesta, a postdoc researcher at CentraleSupélec (Université Paris-Saclay) working with Prof. Fragkiskos Malliaros.
+Hi there! I'm Daniele Malitesta, a postdoc researcher at CentraleSupélec, Inria (Université Paris-Saclay) working with Prof. Fragkiskos Malliaros.
 
 Previously, I pursued my PhD in Electrical and Information Engineering at Politecnico di Bari under the supervision of Prof. Tommaso Di Noia.
 
