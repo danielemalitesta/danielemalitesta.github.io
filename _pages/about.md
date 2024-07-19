@@ -17,11 +17,10 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 There is nothing to share here (for the moment)...
 
 # Latest news
+*_[Jul 15, 2024]_ Our paper **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?** w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!
+*_[Jun 5, 2024]_ Our paper **Uplift Modelling under Limited Supervision** w/ colleagues from CentraleSupélec and the University of Luxembourg has been accepted at ECML-PKDD 2024!  
+* _[Apr 29, 2024]_ Our paper **Formalizing Multimedia Recommendation through Multimodal Deep Learning** w/ colleagues from Politecnico di Bari is now accepted in ACM Transactions on Recommender Systems!
 * _[Mar 24, 2024]_ We hosted the **IRonGraphs** workshop, co-located with ECIR 2024, in Glasgow!
-* _[Mar 08, 2024]_ **Ducho v2.0** was accepted as a resource paper at **the 2024 ACM Web Conference**!
-* _[Mar 01, 2024]_ I joined CentraleSupélec (Université Paris-Saclay) working as a postdoc researcher with Prof. Fragkiskos Malliaros on graph machine learning!
-* _[Feb 05, 2024]_ I gave a talk at the Glasgow Information Retrieval Group at the University of Glasgow entitled: **A Topology-aware Analysis of Graph Collaborative Filtering**.
-* _[Jan 30, 2024]_ I successfully defended my PhD thesis entitled: **Graph Neural Networks for Recommendation leveraging Multimodal Information**!
 
 # Recent publications
 A selection of recent publications (for the full list, please visit this [link](https://danielemalitesta.github.io/publications/)).
