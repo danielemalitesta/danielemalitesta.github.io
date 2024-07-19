@@ -14,7 +14,8 @@ Previously, I pursued my PhD in Electrical and Information Engineering at Polite
 My main research topics are _Graph Representation Learning_, _Recommender Systems_, and _Multimodal Deep Learning_.
 
 # Upcoming events
-* _[TBD]_ I will be giving a lecture on **Multimodal Deep Learning for Recommendation** at the [2024 RecSys Summer School](https://acmrecsys.github.io/rsss2024/)!  
+* _[TBD]_ I will be giving a lecture on **Multimodal Deep Learning for Recommendation** at the [2024 RecSys Summer School](https://acmrecsys.github.io/rsss2024/).
+* _[TBD]_ I will be giving a talk on our recent ACM TORS paper "**Formalizing Multimedia Recommendation through Multimodal Deep Learning**" in the series of seminars held at [QIAU University](https://sites.google.com/view/cs-reading-group/home).
 
 # Latest news
 * _[Jul 15, 2024]_ Our paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!  
