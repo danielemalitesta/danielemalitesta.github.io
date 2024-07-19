@@ -17,8 +17,8 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 There is nothing to share here (for the moment)...
 
 # Latest news
-*_[Jul 15, 2024]_ Our paper **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?** w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!  
-*_[Jun 5, 2024]_ Our paper **Uplift Modelling under Limited Supervision** w/ colleagues from CentraleSupélec and the University of Luxembourg has been accepted at ECML-PKDD 2024!  
+* _[Jul 15, 2024]_ Our paper **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?** w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!  
+* _[Jun 5, 2024]_ Our paper **Uplift Modelling under Limited Supervision** w/ colleagues from CentraleSupélec and the University of Luxembourg has been accepted at ECML-PKDD 2024!  
 * _[Apr 29, 2024]_ Our paper **Formalizing Multimedia Recommendation through Multimodal Deep Learning** w/ colleagues from Politecnico di Bari is now accepted in ACM Transactions on Recommender Systems!  
 * _[Mar 24, 2024]_ We hosted the **IRonGraphs** workshop, co-located with ECIR 2024, in Glasgow!
 
