@@ -10,18 +10,23 @@ _Italic_ stands for corresponding author(s).
 
 ## 2024
 
+* **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**  
+_Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Fragkiskos D. Malliaros, Tommaso Di Noia   
+*CIKM 2024*  
+
+* **[Uplift Modelling under Limited Supervision](https://arxiv.org/pdf/2403.19289)**  
+_George Panagopoulos_, Daniele Malitesta, Fragkiskos D. Malliaros, Jun Pang     
+*ECML-PKDD 2024*
+
+* **[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3662738)**  
+_Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
+*ACM Transactions on Recommender Systems*  
+\[[**code**](https://github.com/sisinflab/Formal-MultiMod-Rec)\]  
+
 * **[Ducho 2.0: Towards a More Up-to-Date Unified Framework for the Extraction of Multimodal Features in Recommendation](https://arxiv.org/pdf/2403.04503.pdf)**  
 Matteo Attimonelli, Danilo Danese, Daniele Malitesta, Claudio Pomo, Giuseppe Gassi, Tommaso Di Noia   
 *The 2024 ACM Web Conference*  
 \[[**code**](https://github.com/sisinflab/Ducho)\]
-
-* **[Dealing with Missing Modalities in Multimodal Recommendation: a Feature Propagation-based Approach](https://arxiv.org/pdf/2403.19841.pdf)**  
-_Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Fragkiskos D. Malliaros, Tommaso Di Noia   
-*arXiv preprint*
-
-* **[Graph Neural Networks for Treatment Effect Prediction](https://arxiv.org/pdf/2403.19289v1.pdf)**  
-_George Panagopoulos_, Daniele Malitesta, Fragkiskos D. Malliaros, Jun Pang     
-*arXiv preprint*
 
 * **[KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering](https://arxiv.org/pdf/2403.20095.pdf)**  
 _Salvatore Bufi_, _Alberto Carlo Maria Mancino_, _Antonio Ferrara_, Daniele Malitesta, Tommaso Di Noia, Eugenio Di Sciascio       
@@ -34,11 +39,6 @@ _Salvatore Bufi_, _Alberto Carlo Maria Mancino_, _Antonio Ferrara_, Daniele Mali
 _Daniele Malitesta_, _Claudio Pomo_, Tommaso Di Noia   
 *LoG 2023*  
 \[[**website**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/)\]\[[**code**](https://github.com/sisinflab/tutorial-gnns-recsys-log2023)\]
-
-* **[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://www.researchgate.net/publication/373823768_Formalizing_Multimedia_Recommendation_through_Multimodal_Deep_Learning)**  
-_Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
-*arXiv preprint*  
-\[[**code**](https://github.com/sisinflab/Formal-MultiMod-Rec)\]
 
 * **[A Topology-aware Analysis of Graph Collaborative Filtering](https://www.researchgate.net/publication/373263658_A_Topology-aware_Analysis_of_Graph_Collaborative_Filtering)**  
 _Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Mancino, Eugenio Di Sciascio, Tommaso Di Noia   
