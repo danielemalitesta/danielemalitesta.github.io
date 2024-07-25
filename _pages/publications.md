@@ -12,7 +12,15 @@ _Italic_ stands for corresponding author(s).
 
 * **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**  
 _Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Tommaso Di Noia, Fragkiskos D. Malliaros     
-*CIKM 2024*  
+*CIKM 2024*
+
+* **[Graph Neural Networks for Recommendation leveraging Multimodal Information (Dissertation Abstract)](https://sigir.org/wp-content/uploads/2024/07/p16.pdf)**  
+_Daniele Malitesta_     
+*SIGIR forum*
+
+* **[Report on the 1st International Workshop on Graph-Based Approaches in Information Retrieval (IRonGraphs 2024) at ECIR 2024](https://sigir.org/wp-content/uploads/2024/07/p09.pdf)**
+Ludovico Boratto, Daniele Malitesta, Mirko Marras, Giacomo Medda, Cataldo Musto, Erasmo Purificato
+*SIGIR forum*
 
 * **[Uplift Modelling under Limited Supervision](https://arxiv.org/pdf/2403.19289)**  
 _George Panagopoulos_, Daniele Malitesta, Fragkiskos D. Malliaros, Jun Pang     
