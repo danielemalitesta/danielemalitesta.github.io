@@ -18,7 +18,7 @@ _Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Tommaso Di Noia, Fragkiskos D
 _Daniele Malitesta_     
 *SIGIR forum*
 
-* **[Report on the 1st International Workshop on Graph-Based Approaches in Information Retrieval (IRonGraphs 2024) at ECIR 2024](https://sigir.org/wp-content/uploads/2024/07/p09.pdf)**
+* **[Report on the 1st International Workshop on Graph-Based Approaches in Information Retrieval (IRonGraphs 2024) at ECIR 2024](https://sigir.org/wp-content/uploads/2024/07/p09.pdf)**  
 Ludovico Boratto, Daniele Malitesta, Mirko Marras, Giacomo Medda, Cataldo Musto, Erasmo Purificato  
 *SIGIR forum*
 
