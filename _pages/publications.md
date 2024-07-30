@@ -47,6 +47,10 @@ _Salvatore Bufi_, _Alberto Carlo Maria Mancino_, _Antonio Ferrara_, Daniele Mali
 *1st International Workshop on Graph-Based Approaches in Information Retrieval @ ECIR 2024*  
 \[[**code**](https://github.com/sisinflab/KGUF)\]
 
+* **First International Workshop on Graph-Based Approaches in Information Retrieval (IRonGraphs 2024)**  
+Ludovico Boratto, Daniele Malitesta, Mirko Marras, Giacomo Medda, Cataldo Musto, Erasmo Purificato  
+*ECIR 2024*
+
 ## 2023
 
 * **[Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation](https://arxiv.org/pdf/2310.11270.pdf)**  
