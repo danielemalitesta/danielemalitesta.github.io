@@ -18,7 +18,7 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 * _[TBD]_ I will be giving a talk on our recent ACM TORS paper "**Formalizing Multimedia Recommendation through Multimodal Deep Learning**" in the series of seminars held at [QIAU University](https://sites.google.com/view/cs-reading-group/home).
 
 # Latest news
-* _[Jul 26, 2024]_ Our paper "** A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**" w/ colleagues from Politecnico di Bari has been accepted at RecSys 2024!  
+* _[Jul 26, 2024]_ Our paper "**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**" w/ colleagues from Politecnico di Bari has been accepted at RecSys 2024!  
 * _[Jul 15, 2024]_ Our paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!
 * _[Jul 10, 2024]_ The dissertation abstract of my PhD thesis "**Graph Neural Networks for Recommendation leveraging Multimodal Information**" is now available in the latest [issue](https://sigir.org/wp-content/uploads/2024/07/p16.pdf) of the SIGIR forum!  
 * _[Jun 5, 2024]_ Our paper "**Uplift Modelling under Limited Supervision**" w/ colleagues from CentraleSupélec and the University of Luxembourg has been accepted at ECML-PKDD 2024!  
