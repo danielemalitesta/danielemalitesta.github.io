@@ -29,12 +29,12 @@ A selection of recent publications (for the full list, please visit this [link](
 
 * **A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**  
 _Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Mancino, Tommaso Di Noia, Eugenio Di Sciascio      
-*RecSys 2024*
+*RecSys 2024*  
 \[[**code**](https://github.com/sisinflab/Topology-Graph-Collaborative-Filtering)\]  
 
 * **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**  
 _Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Tommaso Di Noia, Fragkiskos D. Malliaros    
-*CIKM 2024*
+*CIKM 2024*  
 \[[**code**](https://github.com/sisinflab/Graph-Missing-Modalities)\]  
 
 * **[Graph Neural Networks for Recommendation leveraging Multimodal Information (Dissertation Abstract)](https://sigir.org/wp-content/uploads/2024/07/p16.pdf)**  
