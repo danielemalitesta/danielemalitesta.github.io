@@ -10,13 +10,26 @@ _Italic_ stands for corresponding author(s).
 
 ## 2024
 
-* **A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**  
+* **[Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation](https://arxiv.org/pdf/2409.15857)**  
+Matteo Attimonelli, Danilo Danese, Angela Di Fazio, Daniele Malitesta, Claudio Pomo, Tommaso Di Noia  
+*arXiv preprint*  
+\[[**code**](https://github.com/sisinflab/Ducho-meets-Elliot)\]  
+
+* **[Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction](https://arxiv.org/pdf/2409.07433)**    
+_Daniele Malitesta_, Alberto Carlo Maria Mancino, Pasquale Minervini, Tommaso Di Noia  
+*arXiv preprint*  
+
+* **[How Fair is Your Diffusion Recommender Model?](https://arxiv.org/pdf/2409.04339)**    
+_Daniele Malitesta_, Giacomo Medda, Erasmo Purificato, Ludovico Boratto, Fragkiskos D. Malliaros, Mirko Marras, Ernesto William De Luca    
+*arXiv preprint*  
+
+* **[A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph](https://arxiv.org/pdf/2408.11762)**  
 _Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Mancino, Tommaso Di Noia, Eugenio Di Sciascio      
 *RecSys 2024*  
 \[[**code**](https://github.com/sisinflab/Topology-Graph-Collaborative-Filtering)\]  
 
-* **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**  
-_Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Tommaso Di Noia, Fragkiskos D. Malliaros    
+* **[Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?](https://arxiv.org/pdf/2408.11767)**  
+_Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Tommaso Di Noia, Fragkiskos D. Malliaros  
 *CIKM 2024*  
 \[[**code**](https://github.com/sisinflab/Graph-Missing-Modalities)\]  
 
