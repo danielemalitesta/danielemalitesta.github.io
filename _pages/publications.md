@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-_Italic_ stands for corresponding author(s).
+_Italic_ stands for corresponding author(s). For my complete publication profile, see [Google Scholar](https://scholar.google.com/citations?user=Aeg9i_IAAAAJ&hl=en).
 
 ## 2024
 
