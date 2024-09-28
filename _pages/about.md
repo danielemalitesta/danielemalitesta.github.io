@@ -14,53 +14,44 @@ Previously, I pursued my PhD in Electrical and Information Engineering at Polite
 My main research topics are _Graph Representation Learning_, _Recommender Systems_, and _Multimodal Deep Learning_.
 
 # Upcoming events
-* _[TBD]_ I will be giving a lecture on **Multimodal Deep Learning for Recommendation** at the [2024 RecSys Summer School](https://acmrecsys.github.io/rsss2024/).
-* _[TBD]_ I will be giving a talk on our recent ACM TORS paper "**Formalizing Multimedia Recommendation through Multimodal Deep Learning**" in the series of seminars held at [QIAU University](https://sites.google.com/view/cs-reading-group/home).
+* _[Nov 29, 2024]_ Me, along with colleagues from CentraleSupélec, Ecole Polytechnique, CNRS, Télécom, and Entalpic will host the LoG 2024 Meetup in Paris. Check our [event website](https://sites.google.com/view/learning-on-graph-paris-meetup/home).  
+* _[Oct 22, 2024]_ I will present our short paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" at CIKM 2024 in Boise, Idaho.  
+* _[Oct 09, 2024]_ I will be giving a lecture on **Multimodal Deep Learning for Recommendation** at the [2024 RecSys Summer School](https://acmrecsys.github.io/rsss2024/).
 
 # Latest news
 * _[Jul 26, 2024]_ Our paper "**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**" w/ colleagues from Politecnico di Bari has been accepted at RecSys 2024!  
-* _[Jul 15, 2024]_ Our paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!
-* _[Jul 10, 2024]_ The dissertation abstract of my PhD thesis "**Graph Neural Networks for Recommendation leveraging Multimodal Information**" is now available in the latest [issue](https://sigir.org/wp-content/uploads/2024/07/p16.pdf) of the SIGIR forum!  
-* _[Jun 5, 2024]_ Our paper "**Uplift Modelling under Limited Supervision**" w/ colleagues from CentraleSupélec and the University of Luxembourg has been accepted at ECML-PKDD 2024!  
-* _[Apr 29, 2024]_ Our paper "**Formalizing Multimedia Recommendation through Multimodal Deep Learning**" w/ colleagues from Politecnico di Bari is now accepted in ACM Transactions on Recommender Systems! 
+* _[Jul 15, 2024]_ Our paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!  
 
 # Recent publications
 A selection of recent publications (for the full list, please visit this [link](https://danielemalitesta.github.io/publications/)).
 
-* **A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**  
+* **[Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation](https://arxiv.org/pdf/2409.15857)**  
+Matteo Attimonelli, Danilo Danese, Angela Di Fazio, Daniele Malitesta, Claudio Pomo, Tommaso Di Noia            
+*arXiv preprint*  
+
+* **[Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction](https://arxiv.org/pdf/2409.07433)**  
+_Daniele Malitesta_, Alberto Carlo Maria Mancino, Pasquale Minervini, Tommaso Di Noia          
+*arXiv preprint*  
+
+* **[How Fair is Your Diffusion Recommender Model?](https://arxiv.org/pdf/2409.04339)**  
+_Daniele Malitesta_, Giacomo Medda, Erasmo Purificato, Ludovico Boratto, Fragkiskos D. Malliaros, Mirko Marras, Eresto William De Luca        
+*arXiv pre-print arXiv:2409.04339*  
+
+* **[A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph](https://arxiv.org/pdf/2408.11762)**  
 _Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Mancino, Tommaso Di Noia, Eugenio Di Sciascio      
 *RecSys 2024*  
 \[[**code**](https://github.com/sisinflab/Topology-Graph-Collaborative-Filtering)\]  
 
-* **Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**  
+* **[Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?](https://arxiv.org/pdf/2408.11767)**  
 _Daniele Malitesta_, Emanuele Rossi, Claudio Pomo, Tommaso Di Noia, Fragkiskos D. Malliaros    
 *CIKM 2024*  
 \[[**code**](https://github.com/sisinflab/Graph-Missing-Modalities)\]  
-
-* **[Graph Neural Networks for Recommendation leveraging Multimodal Information (Dissertation Abstract)](https://sigir.org/wp-content/uploads/2024/07/p16.pdf)**  
-_Daniele Malitesta_    
-*SIGIR forum*
 
 * **[Uplift Modelling under Limited Supervision](https://arxiv.org/pdf/2403.19289)**  
 _George Panagopoulos_, Daniele Malitesta, Fragkiskos D. Malliaros, Jun Pang     
 *ECML-PKDD 2024*  
 
-* **[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3662738)**  
-_Daniele Malitesta_, Giandomenico Cornacchia, Claudio Pomo, Felice Antonio Merra, Tommaso Di Noia, Eugenio Di Sciascio   
-*ACM Transactions on Recommender Systems*  
-\[[**code**](https://github.com/sisinflab/Formal-MultiMod-Rec)\]  
-
-* **[Ducho 2.0: Towards a More Up-to-Date Unified Framework for the Extraction of Multimodal Features in Recommendation](https://arxiv.org/pdf/2403.04503.pdf)**  
-Matteo Attimonelli, Danilo Danese, Daniele Malitesta, Claudio Pomo, Giuseppe Gassi, Tommaso Di Noia   
-*The 2024 ACM Web Conference*  
-\[[**code**](https://github.com/sisinflab/Ducho)\]
-
-* **[Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation](https://arxiv.org/pdf/2310.11270.pdf)**  
-_Daniele Malitesta_, _Claudio Pomo_, Tommaso Di Noia   
-*LoG 2023*  
-\[[**website**](https://sisinflab.github.io/tutorial-gnns-recsys-log2023/)\]\[[**code**](https://github.com/sisinflab/tutorial-gnns-recsys-log2023)\]
-
 
 # Contacts
-* institutional email: [**daniele.malitesta@centralesupelec.fr**](mailto:daniele.malitesta@centralesupelec.fr)
-* personal email: [**d.malitesta@gmail.com**](mailto:d.malitesta@gmail.com)
+* institutional email: _daniele [dot] malitesta [at] centralesupelec [dot] fr_
+* personal email: _d [dot] malitesta [at] gmail [dot] com_
