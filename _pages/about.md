@@ -35,7 +35,7 @@ _Daniele Malitesta_, Alberto Carlo Maria Mancino, Pasquale Minervini, Tommaso Di
 *arXiv preprint*  
 
 * **[How Fair is Your Diffusion Recommender Model?](https://arxiv.org/pdf/2409.04339)**  
-_Daniele Malitesta_, Giacomo Medda, Erasmo Purificato, Ludovico Boratto, Fragkiskos D. Malliaros, Mirko Marras, Eresto William De Luca        
+_Daniele Malitesta_, Giacomo Medda, Erasmo Purificato, Ludovico Boratto, Fragkiskos D. Malliaros, Mirko Marras, Ernesto William De Luca        
 *arXiv preprint*  
 
 * **[A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph](https://arxiv.org/pdf/2408.11762)**  
