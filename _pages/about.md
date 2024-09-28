@@ -27,7 +27,7 @@ A selection of recent publications (for the full list, please visit this [link](
 
 * **[Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation](https://arxiv.org/pdf/2409.15857)**  
 Matteo Attimonelli, Danilo Danese, Angela Di Fazio, Daniele Malitesta, Claudio Pomo, Tommaso Di Noia            
-*arXiv preprint*
+*arXiv preprint*  
 \[[**code**](https://github.com/sisinflab/Ducho-meets-Elliot)\]
 
 * **[Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction](https://arxiv.org/pdf/2409.07433)**  
