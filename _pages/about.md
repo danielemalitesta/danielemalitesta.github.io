@@ -27,7 +27,8 @@ A selection of recent publications (for the full list, please visit this [link](
 
 * **[Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation](https://arxiv.org/pdf/2409.15857)**  
 Matteo Attimonelli, Danilo Danese, Angela Di Fazio, Daniele Malitesta, Claudio Pomo, Tommaso Di Noia            
-*arXiv preprint*  
+*arXiv preprint*
+\[[**code**](https://github.com/sisinflab/Ducho-meets-Elliot)\]
 
 * **[Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction](https://arxiv.org/pdf/2409.07433)**  
 _Daniele Malitesta_, Alberto Carlo Maria Mancino, Pasquale Minervini, Tommaso Di Noia          
@@ -35,7 +36,7 @@ _Daniele Malitesta_, Alberto Carlo Maria Mancino, Pasquale Minervini, Tommaso Di
 
 * **[How Fair is Your Diffusion Recommender Model?](https://arxiv.org/pdf/2409.04339)**  
 _Daniele Malitesta_, Giacomo Medda, Erasmo Purificato, Ludovico Boratto, Fragkiskos D. Malliaros, Mirko Marras, Eresto William De Luca        
-*arXiv pre-print arXiv:2409.04339*  
+*arXiv preprint*  
 
 * **[A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph](https://arxiv.org/pdf/2408.11762)**  
 _Daniele Malitesta_, _Claudio Pomo_, Vito Walter Anelli, Alberto Carlo Maria Mancino, Tommaso Di Noia, Eugenio Di Sciascio      
