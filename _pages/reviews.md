@@ -24,7 +24,7 @@ This is a non-exhaustive list of the conferences/journals I've been invited to s
 * SIGIR
 * CIKM
 * LoG
-* RecSys (\*\* outstanding reviewer \*\*)
+* RecSys (\*\*outstanding reviewer\*\*)
 * KaRS@RecSys
 * MM
 * ECAI
