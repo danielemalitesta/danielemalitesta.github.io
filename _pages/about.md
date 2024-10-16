@@ -15,10 +15,12 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 
 # Upcoming events
 * _[Nov 29, 2024]_ Me, along with colleagues from CentraleSupélec, Ecole Polytechnique, CNRS, Télécom, and Entalpic will host the LoG 2024 Meetup in Paris. Check our [event website](https://sites.google.com/view/learning-on-graph-paris-meetup/home).  
-* _[Oct 22, 2024]_ I will present our short paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" at CIKM 2024 in Boise, Idaho.  
+* _[Oct 22, 2024]_ I will present our short paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" at CIKM 2024 in Boise, Idaho.
+* _[Oct 22, 2024]_ I will chair the full paper session on **graph-based recommendation** at CIKM 2024.  
 * _[Oct 09, 2024]_ I will be giving a lecture on **Multimodal Deep Learning for Recommendation** at the [2024 RecSys Summer School](https://acmrecsys.github.io/rsss2024/).
 
 # Latest news
+* _[Oct 15, 2024]_ For the second time in a row, I was nominated among the **outstanding reviewers** at RecSys 2024!  
 * _[Jul 26, 2024]_ Our paper "**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**" w/ colleagues from Politecnico di Bari has been accepted at RecSys 2024!  
 * _[Jul 15, 2024]_ Our paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!  
 
