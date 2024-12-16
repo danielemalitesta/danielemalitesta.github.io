@@ -20,10 +20,10 @@ My main research topics are _Graph Representation Learning_, _Recommender System
 * _[Oct 09, 2024]_ I will be giving a lecture on **Multimodal Deep Learning for Recommendation** at the [2024 RecSys Summer School](https://acmrecsys.github.io/rsss2024/).
 
 # Latest news
+* _[Nov 29, 2024]_ I've been nominated among the **outstanding reviewers** at LoG 2024!
 * _[Oct 15, 2024]_ For the second time in a row, I was nominated among the **outstanding reviewers** at RecSys 2024!
 * _[Oct 06, 2024]_ The proceedings of the IRonGraphs workshop (co-located with ECIR 2024) are finally out: check them at this [link](https://link.springer.com/book/10.1007/978-3-031-71382-8)!  
 * _[Jul 26, 2024]_ Our paper "**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**" w/ colleagues from Politecnico di Bari has been accepted at RecSys 2024!  
-* _[Jul 15, 2024]_ Our paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" w/ colleagues from CentraleSupélec, Politecnico di Bari, and VantAI has been accepted at CIKM 2024!  
 
 # Recent publications
 A selection of recent publications (for the full list, please visit this [link](https://danielemalitesta.github.io/publications/)).
