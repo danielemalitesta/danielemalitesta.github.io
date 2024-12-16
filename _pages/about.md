@@ -14,7 +14,7 @@ Previously, I pursued my PhD in Electrical and Information Engineering at Polite
 My main research topics are _Graph Representation Learning_, _Recommender Systems_, and _Multimodal Deep Learning_.
 
 # Upcoming events
-* _[Jan 16, 2025]_ I'll give a talk entitled "Graph-based Imputation to Address Missing Modalities in Multimodal Recommendation" at the HCAI research group in Linz!  
+* _[Jan 16, 2025]_ I'll give a talk entitled "**Graph-based Imputation to Address Missing Modalities in Multimodal Recommendation**" at the HCAI research group in Linz!  
 * _[Nov 29, 2024]_ Me, along with colleagues from CentraleSupélec, Ecole Polytechnique, CNRS, Télécom, and Entalpic will host the LoG 2024 Meetup in Paris. Check our [event website](https://sites.google.com/view/learning-on-graph-paris-meetup/home).  
 * _[Oct 22, 2024]_ I will present our short paper "**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**" at CIKM 2024 in Boise, Idaho.
 * _[Oct 22, 2024]_ I will chair the full paper session on **graph-based recommendation** at CIKM 2024.  
